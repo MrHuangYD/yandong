@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageDemo</string>
+    <string name="search_pathogens">病原体搜索</string>
+    <string name="pathogens">病原体</string>
+    <string name="virus">病毒</string>
+    <string name="bacteria">细菌</string>
+    <string name="fungus">真菌</string>
+    <string name="others">其他</string>
+    <string name="collection">收藏</string>
+    <string name="changeLanguage">切换语言</string>
+</resources>

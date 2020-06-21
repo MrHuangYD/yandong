@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageDemo</string>
+    <string name="search_pathogens">Search for pathogens</string>
+    <string name="pathogens">Pathogens</string>
+    <string name="virus">Virus</string>
+    <string name="bacteria">Bacteria</string>
+    <string name="fungus">Fungus</string>
+    <string name="others">Others</string>
+    <string name="collection">Collection</string>
+    <string name="changeLanguage">changeLanguage</string>
+</resources>
